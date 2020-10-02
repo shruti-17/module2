@@ -7,7 +7,7 @@ body{
 h1{
 	text-align: center;
 	font-family: "Times New Roman", Times, serif;
-	font-size: 220%;
+	font-size: 230%;
 	font-weight: bold;
 	padding-bottom: 50px;
 }
@@ -31,7 +31,7 @@ p{
 	font-size: 150%;
 	border-bottom: 2px solid;
 	border-left: 2px solid;
-	background-color: pink; 
+	background-color: red; 
 	margin-left: 60%;
 	font-family: Arial; 
 }
@@ -51,7 +51,7 @@ p{
 	font-size: 150%;
 	border-bottom: 2px solid;
 	border-left: 2px solid;
-	background-color: red; 
+	background-color: pink; 
 	margin-left: 60%;
 	font-family: Arial; 
 }
